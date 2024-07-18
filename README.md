@@ -29,9 +29,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![SQL](https://img.shields.io/badge/-SQ-333333?style=flat&logo=postgresql)
 
 <h2>🚀 &nbsp;A Little More About Me</h2>
 
-![Edmilson Motta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdDevFront&show_icons=true&theme=dracula)
+[![Edmilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdDevFront)](https://github.com/EdDevFront/github-readme-stats)
+
