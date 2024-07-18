@@ -1,16 +1,15 @@
-<h1>👋 &nbsp;Olá, eu sou o Edmilson, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Hi there, I'm Edmilson, a passionate full stack developer!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/edmilson-motta/"><img src="https://img.shields.io/badge/-Edmilson%20Motta-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edd.contato@gmail.com"><img src="https://img.shields.io/badge/-edd.contato@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Com uma formação em Ciência da Computação, embarquei em uma jornada dinâmica pelo mundo da tecnologia, acumulando mais de 5 anos de experiência como desenvolvedor front-end. 
-- 💚 &nbsp; Além disso, possuo uma ampla experiência em design gráfico, cultivada ao longo de mais de 6 anos. Essa dupla expertise me proporciona uma compreensão profunda dos princípios de design e da experiência do usuário.
-- 🚀 &nbsp; Durante minha carreira, tive a oportunidade de trabalhar em projetos impactantes. Liderei o desenvolvimento de um sistema ERP para a Mereo, onde implementei automações que reduziram drasticamente o tempo de emissão de faturas de 5 dias para apenas 1 hora.
-- 💼 &nbsp; Atualmente, meu foco principal está no desenvolvimento de aplicações web e mobile, utilizando tecnologias modernas como JavaScript (React.js, Vue.js) e Node.js para o back-end.
-- 🏄‍♂️ &nbsp; Sou apaixonado por surf e costumo pegar ondas sempre que posso. Além disso, adoro música eletrônica e já me apresentei como DJ em mais de 18 países.
+- 👨🏻‍💻 &nbsp; With a degree in Computer Science, I embarked on a dynamic journey in the tech world, accumulating over 5 years of experience as a front-end developer.
+- 💚 &nbsp; Additionally, I have extensive experience in graphic design, cultivated over more than 6 years. This dual expertise provides me with a deep understanding of design principles and user experience.
+- 🚀 &nbsp; Throughout my career, I have had the opportunity to work on impactful projects. I led the development of an ERP system for Mereo, where I implemented automations that drastically reduced the invoice issuance time from 5 days to just 1 hour.
+- 💼 &nbsp; Currently, my main focus is on developing web and desktop applications using modern technologies such as JavaScript (React.js, Vue.js) and Node.js for the backend.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -25,7 +24,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end and Database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
@@ -33,6 +32,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 
-<h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
+<h2>🚀 &nbsp;A Little More About Me</h2>
 
-![Edmilson Motta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=edmilson-motta&show_icons=true&theme=dracula)
+![Edmilson Motta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdDevFront&show_icons=true&theme=dracula)
