@@ -31,7 +31,3 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
 
-<h2>🚀 &nbsp;A Little More About Me</h2>
-
-[![Edmilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdDevFront)](https://github.com/EdDevFront/github-readme-stats)
-
