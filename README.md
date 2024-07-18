@@ -29,7 +29,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![SQL](https://img.shields.io/badge/-SQ-333333?style=flat&logo=postgresql)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite)
 
 <h2>🚀 &nbsp;A Little More About Me</h2>
 
