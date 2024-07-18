@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hi there, I'm Edmilson, a passionate full stack developer!</h1>
+<h1>👋 &nbsp;Hi there, I'm Edmilson, a passionate front end developer!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/edmilson-motta/"><img src="https://img.shields.io/badge/-Edmilson%20Motta-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:edd.contato@gmail.com"><img src="https://img.shields.io/badge/-edd.contato@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
