@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 &nbsp; With a degree in Computer Science, I embarked on a dynamic journey in the tech world, accumulating over 5 years of experience as a front-end developer.
 - 💚 &nbsp; Additionally, I have extensive experience in graphic design, cultivated over more than 6 years. This dual expertise provides me with a deep understanding of design principles and user experience.
-- 🚀 &nbsp; Throughout my career, I have had the opportunity to work on impactful projects. I led the development of an ERP system for Mereo, where I implemented automations that drastically reduced the invoice issuance time from 5 days to just 1 hour.
+- 🚀 &nbsp; Throughout my career, I have had the opportunity to work on impactful projects. I led the development of an ERP system, where I implemented automations that drastically reduced the invoice issuance time from 5 days to just 1 hour.
 - 💼 &nbsp; Currently, my main focus is on developing web and desktop applications using modern technologies such as JavaScript (React.js, Vue.js) and Node.js for the backend.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
