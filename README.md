@@ -4,11 +4,6 @@
 <a href="mailto:edd.contato@gmail.com"><img src="https://img.shields.io/badge/-edd.contato@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" target="_blank"/></a>
 </p>
 
-<div align="center" >
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=EdDevFront&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdDevFront&layout=compact&theme=dark"/>
-</div>
-  
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 👨🏻‍💻 &nbsp; With a degree in Computer Science, I embarked on a dynamic journey in the tech world, accumulating over 5 years of experience as a front-end developer.
