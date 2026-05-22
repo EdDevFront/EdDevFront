@@ -1,141 +1,78 @@
-<h1>👋 &nbsp;Hi there, I'm Edmilson — Software Engineer focused on scalable products, performance, and modern architectures.</h1>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/edmilson-motta/">
-  <img src="https://img.shields.io/badge/-Edmilson%20Motta-0077B5?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"/>
-</a>
-
-<a href="mailto:edd.contato@gmail.com">
-  <img src="https://img.shields.io/badge/-edd.contato@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" target="_blank"/>
-</a>
-</p>
+<h1>👋 &nbsp;Hi there, I'm Edmilson — Software Engineer focused on <strong>scalable products</strong>, <strong>performance</strong>, and <strong>modern architectures</strong>.</h1>
 
 <h2>👨🏻‍💻 &nbsp;About Me</h2>
 
-<ul>
-<li>⚠️ Modern products don’t scale with messy codebases and disconnected systems.</li>
-<li>✅ They scale with scalable architecture, performance-focused engineering, and strong product execution.</li>
-</ul>
+⚠️ Modern products don’t scale with <strong>messy codebases</strong> and <strong>disconnected systems</strong>.
+<br>
+✅ They scale with <strong>scalable architecture</strong>, <strong>performance-focused engineering</strong>, and <strong>strong product execution</strong>.
+<br>
 
-<p>
-That’s where I operate as a Software Engineer.
-</p>
-
-<ul>
-<li>🚀 &nbsp;For 6+ years, I’ve helped companies build scalable platforms, dashboards, landing pages, design systems, APIs, and high-performance applications across both front-end and back-end environments.</li>
-
-<li>🌎 &nbsp;I’ve collaborated with international teams and U.S.-based companies, contributing to scalable architectures, reusable systems, automation pipelines, and high-performance platforms.</li>
-
-<li>🎨 &nbsp;What differentiates me is my strong background in graphic design and UI/UX, with over 6 years of experience creating user-centered interfaces and scalable design systems.</li>
-
-<li>🏗️ &nbsp;I combine engineering, product thinking, and design knowledge to create systems that are fast, maintainable, and built for long-term growth.</li>
-
-<li>⚡ &nbsp;My experience includes scalable front-end ecosystems, real-time systems, APIs, CI/CD workflows, cloud integrations, and reusable component architectures.</li>
-
-<li>💼 &nbsp;I enjoy building products focused on scalability, usability, automation, and measurable business impact.</li>
-</ul>
+🚀 &nbsp;For <strong>6+ years</strong>, I’ve helped companies build scalable platforms, dashboards, landing pages, design systems, APIs, and <strong>high-performance applications</strong> across both front-end and back-end environments.
+<br>
+<br>
+🌎 &nbsp;I’ve collaborated with <strong>international teams</strong> and <strong>U.S.-based companies</strong>, contributing to scalable architectures, reusable systems, automation pipelines, and high-performance platforms.
+<br>
+<br>
+🎨 &nbsp;What differentiates me is my strong background in <strong>graphic design</strong> and <strong>UI/UX</strong>, with over 6 years of experience creating <strong>user-centered interfaces</strong> and scalable design systems.
+<br>
+<br>
+🏗️ &nbsp;I combine <strong>engineering</strong>, <strong>product thinking</strong>, and <strong>design knowledge</strong> to create systems that are fast, maintainable, and built for long-term growth.
+<br>
+<br>
+⚡ &nbsp;My experience includes scalable front-end ecosystems, <strong>real-time systems</strong>, APIs, <strong>CI/CD workflows</strong>, cloud integrations, and reusable component architectures.
+<br>
+<br>
+💼 &nbsp;I enjoy building products focused on <strong>scalability</strong>, <strong>usability</strong>, <strong>automation</strong>, and <strong>measurable business impact</strong>.
 
 <h2>📌 &nbsp;Front-End Engineering & Scalability</h2>
 
 <p>
-I build scalable applications using modern technologies such as React.js, Angular, Vue.js, Next.js, TypeScript, and JavaScript.
-</p>
-
-<p>
-My focus is on reusable components, responsive interfaces, clean architecture, maintainability, and scalable front-end ecosystems.
-</p>
-
-<p>
-I also have strong experience developing Design Systems, component libraries, landing pages, dashboards, and desktop applications.
+I build scalable applications using modern technologies such as <strong>React.js</strong>, <strong>Angular</strong>, <strong>Vue.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>JavaScript</strong>.<br>
+My focus is on <strong>reusable components</strong>, <strong>responsive interfaces</strong>, <strong>clean architecture</strong>, maintainability, and scalable front-end ecosystems.<br>
+I also have strong experience developing <strong>Design Systems</strong>, component libraries, landing pages, dashboards, and desktop applications.<br>
 </p>
 
 <h2>📌 &nbsp;Back-End & Integrations</h2>
 
 <p>
-Beyond front-end engineering, I also work with Node.js, APIs, authentication flows, automation systems, real-time features, cloud services, and third-party integrations focused on scalability and reliability.
-</p>
-
-<p>
-I enjoy building reliable systems with strong architecture, maintainability, and performance optimization.
+Beyond front-end engineering, I also work with <strong>Node.js</strong>, APIs, authentication flows, automation systems, real-time features, cloud services, and <strong>third-party integrations</strong> focused on scalability and reliability.<br>
+I enjoy building reliable systems with <strong>strong architecture</strong>, maintainability, and <strong>performance optimization</strong>.
 </p>
 
 <h2>📌 &nbsp;Performance & Product Development</h2>
 
 <p>
-From rendering optimization and API performance to CI/CD workflows and scalable Design Systems, I focus on delivering polished and reliable user experiences.
+From <strong>rendering optimization</strong> and <strong>API performance</strong> to CI/CD workflows and scalable Design Systems, I focus on delivering polished and reliable user experiences.
 </p>
 
-<ul>
-<li>✅ Led the development of scalable Design Systems and reusable architectures.</li>
-<li>✅ Built automation systems that reduced invoice issuance from 5 days to less than 1 hour.</li>
-<li>✅ Contributed to core features in large-scale fintech platforms.</li>
-<li>✅ Improved development velocity through scalable front-end architecture and reusable systems.</li>
-<li>✅ Developed high-performance landing pages and scalable partner platforms.</li>
-</ul>
-
-<h2>🛠 &nbsp;Tech Stack</h2>
-
-<h3>💻 &nbsp;Front-End</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" />
-<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-<img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7" />
-<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
-<img src="https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js" />
-<img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" />
-<img src="https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular" />
-<img src="https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron" />
-<img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css" />
-<img src="https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook" />
-</p>
-
-<h3>⚙️ &nbsp;Back-End & Cloud</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-<img src="https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20" />
-<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
-<img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=sqlite" />
-<img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws" />
-<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-</p>
-
-<h3>🎨 &nbsp;UI/UX & Design</h3>
-
-<p>
-<img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" />
-<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop" />
-<img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobeillustrator" />
-</p>
+✅ Led the development of <strong>scalable Design Systems</strong> and reusable architectures.<br>
+✅ Built automation systems that reduced invoice issuance from <strong>5 days to less than 1 hour</strong>.<br>
+✅ Contributed to <strong>core features</strong> in large-scale fintech platforms.<br>
+✅ Improved development velocity through scalable front-end architecture and reusable systems.<br>
+✅ Developed <strong>high-performance landing pages</strong> and scalable partner platforms.<br>
 
 <h2>🚀 &nbsp;How I Work</h2>
 
-<ul>
-<li>✔️ I focus on scalable and maintainable solutions.</li>
-<li>✔️ I care deeply about performance, usability, and clean architecture.</li>
-<li>✔️ I solve problems proactively and independently.</li>
-<li>✔️ I bridge design, product, and engineering effectively.</li>
-<li>✔️ I adapt quickly to complex systems and new technologies.</li>
-<li>✔️ I build with long-term product growth in mind.</li>
-</ul>
+✔️ I focus on <strong>scalable</strong> and <strong>maintainable solutions</strong>.<br>
+✔️ I care deeply about <strong>performance</strong>, <strong>usability</strong>, and <strong>clean architecture</strong>.<br>
+✔️ I solve problems <strong>proactively</strong> and independently.<br>
+✔️ I bridge <strong>design</strong>, <strong>product</strong>, and <strong>engineering</strong> effectively.<br>
+✔️ I adapt quickly to <strong>complex systems</strong> and new technologies.<br>
+✔️ I build with <strong>long-term product growth</strong> in mind.<br>
 
 <h2>🎯 &nbsp;Specialties</h2>
 
-<ul>
-<li>🔹 React, Angular, Vue.js & Next.js</li>
-<li>🔹 TypeScript & JavaScript</li>
-<li>🔹 Node.js & API Integrations</li>
-<li>🔹 Front-End Architecture & Scalability</li>
-<li>🔹 Design Systems & Component Libraries</li>
-<li>🔹 Real-Time Features & WebSockets</li>
-<li>🔹 Performance Optimization</li>
-<li>🔹 CI/CD & Modern Development Workflows</li>
-<li>🔹 AWS & Cloud Integrations</li>
-<li>🔹 UI/UX & Graphic Design Background</li>
-</ul>
+🔹 <strong>React, Angular, Vue.js & Next.js</strong><br>
+🔹 <strong>TypeScript & JavaScript</strong><br>
+🔹 <strong>Node.js & API Integrations</strong><br>
+🔹 <strong>Front-End Architecture & Scalability</strong><br>
+🔹 <strong>Design Systems & Component Libraries</strong><br>
+🔹 <strong>Real-Time Features & WebSockets</strong><br>
+🔹 <strong>Performance Optimization</strong><br>
+🔹 <strong>CI/CD & Modern Development Workflows</strong><br>
+🔹 <strong>AWS & Cloud Integrations</strong><br>
+🔹 <strong>UI/UX & Graphic Design Background</strong><br>
 
 <p>
-🙌 Across fintechs, SaaS platforms, startups, and international teams, I’ve contributed to products focused on scalability, usability, automation, and measurable business impact.
+🙌 Across fintechs, SaaS platforms, startups, and international teams, I’ve contributed to products focused on <strong>scalability, usability, automation, and measurable business impact.</strong>
 </p>
